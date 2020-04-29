@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.13](https://github.com/Jeff-Tian/react-keycloak/compare/react-router@0.2.12...react-router@0.2.13) (2020-04-29)
+
+**Note:** Version bump only for package react-router
+
+
+
+
+
 ## [0.2.12](https://github.com/panz3r/react-keycloak/compare/react-router@0.2.11...react-router@0.2.12) (2020-04-09)
 
 **Note:** Version bump only for package react-router

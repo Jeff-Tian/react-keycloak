@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2020-04-29)
+
+
+### Features
+
+* **razzle:** Add 'razzle-app' sample ([8c6c565](https://github.com/Jeff-Tian/react-keycloak/commit/8c6c5654889c30d1e63efa05c7125a22e1297763))
+
+
+
+
+
 ## [1.1.8](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle-app@1.1.7...@keycloak-react/razzle-app@1.1.8) (2020-04-09)
 
 **Note:** Version bump only for package @keycloak-react/razzle-app

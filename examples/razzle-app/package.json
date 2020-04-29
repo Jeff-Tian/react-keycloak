@@ -1,6 +1,6 @@
 {
   "name": "@keycloak-react/razzle-app",
-  "version": "1.1.8",
+  "version": "1.2.0",
   "private": true,
   "dependencies": {
     "@keycloak-react/razzle": "file:../../packages/razzle",

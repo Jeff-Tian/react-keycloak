@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.7](https://github.com/gatsbyjs/gatsby-starter-default/compare/gatsby-starter-default@0.2.6...gatsby-starter-default@0.2.7) (2020-04-29)
+
+
+### Bug Fixes
+
+* add babel-helper ([874ad48](https://github.com/gatsbyjs/gatsby-starter-default/commit/874ad48518169cc8b0a21a155e133c2fa96220ed))
+
+
+
+
+
 ## [0.2.6](https://github.com/gatsbyjs/gatsby-starter-default/compare/gatsby-starter-default@0.2.5...gatsby-starter-default@0.2.6) (2020-04-09)
 
 **Note:** Version bump only for package gatsby-starter-default
