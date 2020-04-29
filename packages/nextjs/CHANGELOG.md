@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-beta.9](https://github.com/jeff-tian/keycloak-react/compare/@keycloak-react/nextjs@2.0.0-beta.8...@keycloak-react/nextjs@2.0.0-beta.9) (2020-04-29)
+
+
+### Bug Fixes
+
+* author name ([641bb7a](https://github.com/jeff-tian/keycloak-react/commit/641bb7a4f19d9625045c668ef3de26982777f92d))
+
+
+
+
+
 # 2.0.0-beta.8 (2020-04-29)
 
 

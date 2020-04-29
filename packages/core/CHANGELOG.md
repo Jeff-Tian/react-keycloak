@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.1](https://github.com/jeff-tian/keycloak-react/compare/@keycloak-react/core@4.0.0...@keycloak-react/core@4.0.1) (2020-04-29)
+
+
+### Bug Fixes
+
+* author name ([641bb7a](https://github.com/jeff-tian/keycloak-react/commit/641bb7a4f19d9625045c668ef3de26982777f92d))
+
+
+
+
+
 # 4.0.0 (2020-04-29)
 
 
