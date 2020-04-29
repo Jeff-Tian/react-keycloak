@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/Jeff-Tian/react-keycloak/compare/@keycloak-react/razzle-app@1.2.0...@keycloak-react/razzle-app@1.2.1) (2020-04-29)
+
+
+### Bug Fixes
+
+* rename ([0c932fd](https://github.com/Jeff-Tian/react-keycloak/commit/0c932fdf89682f2b916bd42b02f190f2d3383bc1))
+
+
+
+
+
 # 1.2.0 (2020-04-29)
 
 
