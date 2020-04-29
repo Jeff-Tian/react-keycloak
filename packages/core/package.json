@@ -5,13 +5,13 @@
   "description": "React bindings for Keycloak javascript adapter (core)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/panz3r/react-keycloak.git"
+    "url": "git+https://github.com/jeff-tian/keycloak-react.git"
   },
   "author": "Mattia Panzeri <mattia.panzeri93@gmail.com>",
   "bugs": {
-    "url": "https://github.com/panz3r/react-keycloak/issues"
+    "url": "https://github.com/jeff-tian/keycloak-react/issues"
   },
-  "homepage": "https://github.com/panz3r/react-keycloak#readme",
+  "homepage": "https://github.com/jeff-tian/keycloak-react#readme",
   "keywords": [
     "react",
     "keycloak",

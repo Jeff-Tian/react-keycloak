@@ -7,8 +7,8 @@ export const Footer: FC = () => {
       <div className="container">
         <small className="text-muted">
           Repo:&nbsp;
-          <a href="https://github.com/panz3r/react-keycloak">
-            https://github.com/panz3r/react-keycloak
+          <a href="https://github.com/jeff-tian/keycloak-react">
+            https://github.com/jeff-tian/keycloak-react
           </a>
         </small>
       </div>
