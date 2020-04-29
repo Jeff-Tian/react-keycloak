@@ -1,5 +1,5 @@
 {
-  "name": "@react-keycloak/core",
+  "name": "@keycloak-react/core",
   "version": "2.1.1",
   "license": "MIT",
   "description": "React bindings for Keycloak javascript adapter (core)",

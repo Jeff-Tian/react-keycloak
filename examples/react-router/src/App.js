@@ -1,6 +1,6 @@
 import React from 'react'
 import Keycloak from 'keycloak-js'
-import { KeycloakProvider } from '@react-keycloak/web'
+import { KeycloakProvider } from '@keycloak-react/web'
 
 import { AppRouter } from './routes'
 

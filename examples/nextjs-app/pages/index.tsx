@@ -2,7 +2,7 @@ import * as React from 'react'
 import { KeycloakTokenParsed } from 'keycloak-js'
 import { NextPage } from 'next'
 
-import { withKeycloak } from '@react-keycloak/nextjs'
+import { withKeycloak } from '@keycloak-react/nextjs'
 
 import { Layout } from '../components/Layout'
 

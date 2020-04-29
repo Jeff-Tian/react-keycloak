@@ -5,7 +5,7 @@ import express from 'express'
 import cookieParser from 'cookie-parser'
 import { renderToString } from 'react-dom/server'
 
-import { ServerPersistors, SSRKeycloakProvider } from '@react-keycloak/razzle'
+import { ServerPersistors, SSRKeycloakProvider } from '@keycloak-react/razzle'
 
 import { getKeycloakConfig } from './utils'
 

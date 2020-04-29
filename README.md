@@ -4,10 +4,10 @@
 
 > React bindings for [Keycloak](https://www.keycloak.org/)
 
-[![NPM (scoped)](https://img.shields.io/npm/v/@react-keycloak/core?label=npm%20%7C%20core)](https://www.npmjs.com/package/@react-keycloak/core)
-[![NPM (scoped)](https://img.shields.io/npm/v/@react-keycloak/web?label=npm%20%7C%20web)](https://www.npmjs.com/package/@react-keycloak/web)
-[![NPM (scoped)](https://img.shields.io/npm/v/@react-keycloak/nextjs?label=npm%20%7C%20nextjs)](https://www.npmjs.com/package/@react-keycloak/nextjs)
-[![NPM (scoped)](https://img.shields.io/npm/v/@react-keycloak/razzle?label=npm%20%7C%20razzle)](https://www.npmjs.com/package/@react-keycloak/razzle)
+[![NPM (scoped)](https://img.shields.io/npm/v/@keycloak-react/core?label=npm%20%7C%20core)](https://www.npmjs.com/package/@keycloak-react/core)
+[![NPM (scoped)](https://img.shields.io/npm/v/@keycloak-react/web?label=npm%20%7C%20web)](https://www.npmjs.com/package/@keycloak-react/web)
+[![NPM (scoped)](https://img.shields.io/npm/v/@keycloak-react/nextjs?label=npm%20%7C%20nextjs)](https://www.npmjs.com/package/@keycloak-react/nextjs)
+[![NPM (scoped)](https://img.shields.io/npm/v/@keycloak-react/razzle?label=npm%20%7C%20razzle)](https://www.npmjs.com/package/@keycloak-react/razzle)
 
 [![License](https://img.shields.io/github/license/panz3r/react-keycloak.svg)](https://github.com/panz3r/react-keycloak/blob/master/LICENSE.md)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -19,7 +19,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/panz3r/react-keycloak/badge.svg?branch=master)](https://coveralls.io/github/panz3r/react-keycloak?branch=master)
 [![Github Issues](https://img.shields.io/github/issues/panz3r/react-keycloak.svg)](https://github.com/panz3r/react-keycloak/issues)
 
-![npm](https://img.shields.io/npm/dm/@react-keycloak/core)
+![npm](https://img.shields.io/npm/dm/@keycloak-react/core)
 
 ---
 
@@ -45,22 +45,22 @@ React Keycloak for Web requires:
 - `keycloak-js` **9.0.2** or later
 
 ```shell
-yarn add @react-keycloak/web
+yarn add @keycloak-react/web
 ```
 
 or
 
 ```shell
-npm install --save @react-keycloak/web
+npm install --save @keycloak-react/web
 ```
 
 or as a `UMD` package through `unpkg`
 
-- one for development: https://unpkg.com/@react-keycloak/web@latest/dist/umd/react-keycloak-web.js
+- one for development: https://unpkg.com/@keycloak-react/web@latest/dist/umd/react-keycloak-web.js
 
-- one for production: https://unpkg.com/@react-keycloak/web@latest/dist/umd/react-keycloak-web.min.js
+- one for production: https://unpkg.com/@keycloak-react/web@latest/dist/umd/react-keycloak-web.min.js
 
-See `@react-keycloak/web` package [README](https://github.com/panz3r/react-keycloak/blob/master/packages/web/README.md) for complete documentation.
+See `@keycloak-react/web` package [README](https://github.com/panz3r/react-keycloak/blob/master/packages/web/README.md) for complete documentation.
 
 ### NextJS
 
@@ -71,16 +71,16 @@ React Keycloak for NextJS requires:
 - `keycloak-js` **9.0.2** or later
 
 ```shell
-yarn add @react-keycloak/nextjs
+yarn add @keycloak-react/nextjs
 ```
 
 or
 
 ```shell
-npm install --save @react-keycloak/nextjs
+npm install --save @keycloak-react/nextjs
 ```
 
-See `@react-keycloak/nextjs` package [README](https://github.com/panz3r/react-keycloak/blob/master/packages/nextjs/README.md) for complete documentation.
+See `@keycloak-react/nextjs` package [README](https://github.com/panz3r/react-keycloak/blob/master/packages/nextjs/README.md) for complete documentation.
 
 ### Razzle
 
@@ -91,16 +91,16 @@ React Keycloak for Razzle requires:
 - `keycloak-js` **9.0.2** or later
 
 ```shell
-yarn add @react-keycloak/razzle
+yarn add @keycloak-react/razzle
 ```
 
 or
 
 ```shell
-npm install --save @react-keycloak/razzle
+npm install --save @keycloak-react/razzle
 ```
 
-See `@react-keycloak/razzle` package [README](https://github.com/panz3r/react-keycloak/blob/master/packages/razzle/README.md) for complete documentation.
+See `@keycloak-react/razzle` package [README](https://github.com/panz3r/react-keycloak/blob/master/packages/razzle/README.md) for complete documentation.
 
 ## Support
 

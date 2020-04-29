@@ -5,7 +5,7 @@
   "version": "0.2.6",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "@react-keycloak/web": "file:../../packages/web",
+    "@keycloak-react/web": "file:../../packages/web",
     "gatsby": "^2.18.12",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-manifest": "^2.2.31",

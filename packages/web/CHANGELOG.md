@@ -3,15 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.1.1](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@2.1.0...@react-keycloak/web@2.1.1) (2020-04-09)
+## [2.1.1](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@2.1.0...@keycloak-react/web@2.1.1) (2020-04-09)
 
-**Note:** Version bump only for package @react-keycloak/web
-
-
+**Note:** Version bump only for package @keycloak-react/web
 
 
 
-# [2.1.0](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@2.0.0...@react-keycloak/web@2.1.0) (2020-04-08)
+
+
+# [2.1.0](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@2.0.0...@keycloak-react/web@2.1.0) (2020-04-08)
 
 
 ### Features
@@ -22,7 +22,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.6...@react-keycloak/web@2.0.0) (2020-03-30)
+# [2.0.0](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.6...@keycloak-react/web@2.0.0) (2020-03-30)
 
 
 ### chore
@@ -43,55 +43,55 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [1.0.6](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.5...@react-keycloak/web@1.0.6) (2020-03-30)
+## [1.0.6](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.5...@keycloak-react/web@1.0.6) (2020-03-30)
 
-**Note:** Version bump only for package @react-keycloak/web
-
-
-
-
-
-## [1.0.5](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.4...@react-keycloak/web@1.0.5) (2020-03-19)
-
-**Note:** Version bump only for package @react-keycloak/web
+**Note:** Version bump only for package @keycloak-react/web
 
 
 
 
 
-## [1.0.4](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.3...@react-keycloak/web@1.0.4) (2020-02-22)
+## [1.0.5](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.4...@keycloak-react/web@1.0.5) (2020-03-19)
 
-**Note:** Version bump only for package @react-keycloak/web
-
-
-
-
-
-## [1.0.3](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.2...@react-keycloak/web@1.0.3) (2020-02-19)
-
-**Note:** Version bump only for package @react-keycloak/web
+**Note:** Version bump only for package @keycloak-react/web
 
 
 
 
 
-## [1.0.2](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.1...@react-keycloak/web@1.0.2) (2020-02-01)
+## [1.0.4](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.3...@keycloak-react/web@1.0.4) (2020-02-22)
 
-**Note:** Version bump only for package @react-keycloak/web
-
-
-
-
-
-## [1.0.1](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.0...@react-keycloak/web@1.0.1) (2020-01-23)
-
-**Note:** Version bump only for package @react-keycloak/web
+**Note:** Version bump only for package @keycloak-react/web
 
 
 
 
 
-# [1.0.0-alpha.6](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.0-alpha.5...@react-keycloak/web@1.0.0-alpha.6) (2019-12-23)
+## [1.0.3](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.2...@keycloak-react/web@1.0.3) (2020-02-19)
+
+**Note:** Version bump only for package @keycloak-react/web
+
+
+
+
+
+## [1.0.2](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.1...@keycloak-react/web@1.0.2) (2020-02-01)
+
+**Note:** Version bump only for package @keycloak-react/web
+
+
+
+
+
+## [1.0.1](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.0...@keycloak-react/web@1.0.1) (2020-01-23)
+
+**Note:** Version bump only for package @keycloak-react/web
+
+
+
+
+
+# [1.0.0-alpha.6](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.0-alpha.5...@keycloak-react/web@1.0.0-alpha.6) (2019-12-23)
 
 
 ### Bug Fixes
@@ -102,17 +102,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-alpha.5](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.0-alpha.4...@react-keycloak/web@1.0.0-alpha.5) (2019-12-16)
+# [1.0.0-alpha.5](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.0-alpha.4...@keycloak-react/web@1.0.0-alpha.5) (2019-12-16)
 
-**Note:** Version bump only for package @react-keycloak/web
-
-
+**Note:** Version bump only for package @keycloak-react/web
 
 
 
-# [1.0.0-alpha.4](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/web@1.0.0-alpha.3...@react-keycloak/web@1.0.0-alpha.4) (2019-12-16)
 
-**Note:** Version bump only for package @react-keycloak/web
+
+# [1.0.0-alpha.4](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/web@1.0.0-alpha.3...@keycloak-react/web@1.0.0-alpha.4) (2019-12-16)
+
+**Note:** Version bump only for package @keycloak-react/web
 
 
 
@@ -120,7 +120,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-alpha.3 (2019-12-16)
 
-**Note:** Version bump only for package @react-keycloak/web
+**Note:** Version bump only for package @keycloak-react/web
 
 
 
@@ -128,4 +128,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-alpha.2 (2019-12-16)
 
-**Note:** Version bump only for package @react-keycloak/web
+**Note:** Version bump only for package @keycloak-react/web

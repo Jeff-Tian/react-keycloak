@@ -1,6 +1,6 @@
 import React, { useCallback } from 'react'
 
-import { useKeycloak } from '@react-keycloak/web'
+import { useKeycloak } from '@keycloak-react/web'
 
 import { useAxios } from '../utils/hooks'
 

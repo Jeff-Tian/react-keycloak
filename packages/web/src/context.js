@@ -1,4 +1,4 @@
-import { createReactKeycloakContext } from '@react-keycloak/core'
+import { createReactKeycloakContext } from '@keycloak-react/core'
 
 const reactKeycloakWebContext = createReactKeycloakContext()
 

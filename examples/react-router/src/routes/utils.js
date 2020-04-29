@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Redirect } from 'react-router-dom'
 
-import { useKeycloak } from '@react-keycloak/web'
+import { useKeycloak } from '@keycloak-react/web'
 
 export function PrivateRoute({ component: Component, ...rest }) {
   const [keycloak] = useKeycloak()

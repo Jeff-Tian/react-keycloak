@@ -1,4 +1,4 @@
-import { createReactKeycloakProvider } from '@react-keycloak/core'
+import { createReactKeycloakProvider } from '@keycloak-react/core'
 
 import { KeycloakContext } from './context'
 

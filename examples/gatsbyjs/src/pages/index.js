@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import { withKeycloak } from "@react-keycloak/web"
+import { withKeycloak } from "@keycloak-react/web"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"

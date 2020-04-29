@@ -1,4 +1,4 @@
-// Type definitions for @react-keycloak/core
+// Type definitions for @keycloak-react/core
 // Project: https://github.com/panz3r/react-keycloak
 // Definitions by: Mattia Panzeri <https://github.com/panz3r>
 // TypeScript Version: 3.4

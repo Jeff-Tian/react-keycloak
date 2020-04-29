@@ -1,7 +1,7 @@
 const React = require("react")
 const PropTypes = require("prop-types")
 const Keycloak = require("keycloak-js")
-const { KeycloakProvider } = require("@react-keycloak/web")
+const { KeycloakProvider } = require("@keycloak-react/web")
 
 const keycloak = new Keycloak({
   realm: process.env.REALM,

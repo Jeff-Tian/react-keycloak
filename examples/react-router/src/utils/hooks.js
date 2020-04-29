@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import axios from 'axios'
 
-import { useKeycloak } from '@react-keycloak/web'
+import { useKeycloak } from '@keycloak-react/web'
 
 export const useAxios = (baseURL) => {
   const [keycloak, initialized] = useKeycloak()

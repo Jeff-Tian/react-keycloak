@@ -1,3 +1,3 @@
-describe('@react-keycloak/nextjs', () => {
+describe('@keycloak-react/nextjs', () => {
   it('needs tests')
 })

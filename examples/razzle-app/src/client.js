@@ -3,7 +3,7 @@ import { BrowserRouter } from 'react-router-dom'
 import React from 'react'
 import { hydrate } from 'react-dom'
 
-import { ClientPersistors, SSRKeycloakProvider } from '@react-keycloak/razzle'
+import { ClientPersistors, SSRKeycloakProvider } from '@keycloak-react/razzle'
 
 import { getKeycloakConfig } from './utils'
 

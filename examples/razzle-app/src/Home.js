@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import { withKeycloak } from '@react-keycloak/razzle'
+import { withKeycloak } from '@keycloak-react/razzle'
 
 import logo from './react.svg'
 import './Home.css'

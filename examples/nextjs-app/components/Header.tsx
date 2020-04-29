@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-import { withKeycloak } from '@react-keycloak/nextjs'
+import { withKeycloak } from '@keycloak-react/nextjs'
 
 export const Header = withKeycloak(({ keycloak }) => {
   return (

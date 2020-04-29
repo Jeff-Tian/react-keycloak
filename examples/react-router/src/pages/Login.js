@@ -1,7 +1,7 @@
 import React, { useCallback } from 'react'
 import { Redirect, withRouter } from 'react-router-dom'
 
-import { withKeycloak } from '@react-keycloak/web'
+import { withKeycloak } from '@keycloak-react/web'
 
 const LoginPage = withRouter(
   withKeycloak(({ keycloak, location }) => {

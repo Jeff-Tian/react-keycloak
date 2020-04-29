@@ -4,7 +4,7 @@
 
 > React bindings for [Keycloak](https://www.keycloak.org/)
 
-[![NPM (scoped)](https://img.shields.io/npm/v/@react-keycloak/web?label=npm%20%7C%20web)](https://www.npmjs.com/package/@react-keycloak/web)
+[![NPM (scoped)](https://img.shields.io/npm/v/@keycloak-react/web?label=npm%20%7C%20web)](https://www.npmjs.com/package/@keycloak-react/web)
 
 [![License](https://img.shields.io/github/license/panz3r/react-keycloak.svg)](https://github.com/panz3r/react-keycloak/blob/master/LICENSE.md)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -41,19 +41,19 @@ React Keycloak requires:
 - `keycloak-js` **9.0.2** or later
 
 ```shell
-yarn add @react-keycloak/web
+yarn add @keycloak-react/web
 ```
 
 or
 
 ```shell
-npm install --save @react-keycloak/web
+npm install --save @keycloak-react/web
 ```
 
 or as a `UMD` package through `unpkg`
 
-- one for development: https://unpkg.com/@react-keycloak/web@latest/dist/umd/react-keycloak-web.js
-- one for production: https://unpkg.com/@react-keycloak/web@latest/dist/umd/react-keycloak-web.min.js
+- one for development: https://unpkg.com/@keycloak-react/web@latest/dist/umd/react-keycloak-web.js
+- one for production: https://unpkg.com/@keycloak-react/web@latest/dist/umd/react-keycloak-web.min.js
 
 ## Support
 
@@ -83,7 +83,7 @@ export default keycloak
 Wrap your App inside `KeycloakProvider` and pass the `keycloak` instance as prop
 
 ```js
-import { KeycloakProvider } from '@react-keycloak/web'
+import { KeycloakProvider } from '@keycloak-react/web'
 
 import keycloak from './keycloak'
 
@@ -153,7 +153,7 @@ const App = () => {
 When a component requires access to `Keycloak`, wrap it inside the `withKeycloak` HOC.
 
 ```js
-import { withKeycloak } from '@react-keycloak/web'
+import { withKeycloak } from '@keycloak-react/web'
 
 const LoginPage = ({ keycloak, keycloakInitialized }) => {
   // Here you can access all of keycloak methods and variables.
@@ -175,7 +175,7 @@ export default withKeycloak(LoginPage)
 Alternately, when a component requires access to `Keycloak`, you can also use the `useKeycloak` Hook.
 
 ```js
-import { useKeycloak } from '@react-keycloak/web'
+import { useKeycloak } from '@keycloak-react/web'
 
 export default () => {
   // Using array destructuring

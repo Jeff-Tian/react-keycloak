@@ -1,7 +1,7 @@
 import React from 'react'
 import { HashRouter as Router, Redirect, Route } from 'react-router-dom'
 
-import { useKeycloak } from '@react-keycloak/web'
+import { useKeycloak } from '@keycloak-react/web'
 
 import HomePage from '../pages/Home'
 import LoginPage from '../pages/Login'

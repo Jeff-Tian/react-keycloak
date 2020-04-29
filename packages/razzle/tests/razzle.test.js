@@ -1,5 +1,5 @@
 'use strict'
 
-describe('@react-keycloak/razzle', () => {
+describe('@keycloak-react/razzle', () => {
   it('needs tests')
 })

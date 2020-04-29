@@ -3,7 +3,7 @@
   "version": "0.2.12",
   "private": true,
   "dependencies": {
-    "@react-keycloak/web": "file:../../packages/web",
+    "@keycloak-react/web": "file:../../packages/web",
     "@testing-library/jest-dom": "^5.1.1",
     "@testing-library/react": "^10.0.1",
     "@testing-library/user-event": "^10.0.0",

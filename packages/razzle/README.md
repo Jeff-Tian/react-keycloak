@@ -4,7 +4,7 @@
 
 > [Razzle](https://github.com/jaredpalmer/razzle) bindings for [Keycloak](https://www.keycloak.org/)
 
-[![NPM (scoped)](https://img.shields.io/npm/v/@react-keycloak/razzle?label=npm%20%7C%20razzle)](https://www.npmjs.com/package/@react-keycloak/razzle)
+[![NPM (scoped)](https://img.shields.io/npm/v/@keycloak-react/razzle?label=npm%20%7C%20razzle)](https://www.npmjs.com/package/@keycloak-react/razzle)
 
 [![License](https://img.shields.io/github/license/panz3r/react-keycloak.svg)](https://github.com/panz3r/react-keycloak/blob/master/LICENSE.md)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -40,13 +40,13 @@ React Keycloak requires:
 - `keycloak-js` **9.0.2** or later
 
 ```shell
-yarn add @react-keycloak/razzle
+yarn add @keycloak-react/razzle
 ```
 
 or
 
 ```shell
-npm install --save @react-keycloak/razzle
+npm install --save @keycloak-react/razzle
 ```
 
 ## Support
@@ -67,7 +67,7 @@ Edit your app `server.js` as follow
 ```js
 ...
 
-import { ServerPersistors, SSRKeycloakProvider } from '@react-keycloak/razzle'
+import { ServerPersistors, SSRKeycloakProvider } from '@keycloak-react/razzle'
 
 // Create a function to retrieve Keycloak configuration parameters -- 'see examples/razzle-app'
 import { getKeycloakConfig } from './utils'
@@ -105,7 +105,7 @@ server
 Edit your `client.js` as follow
 
 ```js
-import { ClientPersistors, SSRKeycloakProvider } from '@react-keycloak/razzle'
+import { ClientPersistors, SSRKeycloakProvider } from '@keycloak-react/razzle'
 
 // Create a function to retrieve Keycloak configuration parameters -- 'see examples/razzle-app'
 import { getKeycloakConfig } from './utils'
@@ -132,7 +132,7 @@ When a page requires access to `Keycloak`, wrap it inside the `withKeycloak` HOC
 ```jsx
 ...
 
-import { withKeycloak } from '@react-keycloak/razzle'
+import { withKeycloak } from '@keycloak-react/razzle'
 
 const Home = ({ keycloak, keycloakInitialized: initialized, isServer }) => {
   console.log('Is running on server:', isServer)
@@ -182,7 +182,7 @@ Alternately, when a component requires access to `Keycloak`, you can also use th
 ```jsx
 ...
 
-import { useKeycloak } from '@react-keycloak/razzle'
+import { useKeycloak } from '@keycloak-react/razzle'
 
 const Home = () => {
   const [keycloak, initialized, isServer] = useKeycloak()

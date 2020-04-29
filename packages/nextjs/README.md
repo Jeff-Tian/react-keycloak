@@ -4,7 +4,7 @@
 
 > [NextJS](https://nextjs.org) bindings for [Keycloak](https://www.keycloak.org/)
 
-[![NPM (scoped)](https://img.shields.io/npm/v/@react-keycloak/nextjs?label=npm%20%7C%20nextjs)](https://www.npmjs.com/package/@react-keycloak/nextjs)
+[![NPM (scoped)](https://img.shields.io/npm/v/@keycloak-react/nextjs?label=npm%20%7C%20nextjs)](https://www.npmjs.com/package/@keycloak-react/nextjs)
 
 [![License](https://img.shields.io/github/license/panz3r/react-keycloak.svg)](https://github.com/panz3r/react-keycloak/blob/master/LICENSE.md)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -42,13 +42,13 @@ React Keycloak requires:
 - `keycloak-js` **9.0.2** or later
 
 ```shell
-yarn add @react-keycloak/nextjs
+yarn add @keycloak-react/nextjs
 ```
 
 or
 
 ```shell
-npm install --save @react-keycloak/nextjs
+npm install --save @keycloak-react/nextjs
 ```
 
 ## Support
@@ -64,7 +64,7 @@ npm install --save @react-keycloak/nextjs
 
 Create the `_app.tsx` file under `pages` folder and wrap your App inside `SSRKeycloakProvider` component and pass `keycloakConfig` and a `TokenPersistor`.
 
-**Note:** `@react-keycloak/nextjs` provides a default `TokenPersistor` which works with `cookies` (exported as `Persistors.Cookies`). The following examples will be based on that.
+**Note:** `@keycloak-react/nextjs` provides a default `TokenPersistor` which works with `cookies` (exported as `Persistors.Cookies`). The following examples will be based on that.
 
 ```tsx
 import cookie from 'cookie'
@@ -72,8 +72,8 @@ import * as React from 'react'
 import type { IncomingMessage } from 'http'
 import type { AppProps, AppContext } from 'next/app'
 
-import { SSRKeycloakProvider, Persistors } from '@react-keycloak/nextjs'
-import type { KeycloakCookies } from  '@react-keycloak/nextjs'
+import { SSRKeycloakProvider, Persistors } from '@keycloak-react/nextjs'
+import type { KeycloakCookies } from  '@keycloak-react/nextjs'
 
 const keycloakCfg = {
   realm: '',
@@ -122,7 +122,7 @@ When a page requires access to `Keycloak`, wrap it inside the `withKeycloak` HOC
 **Note:** When running server-side not all properties and method of the `keycloak` instance might be available (`token`, `idToken` and `refreshToken` are available if persisted and `authenticated` is set accordingly).
 
 ```tsx
-import { withKeycloak } from '@react-keycloak/nextjs'
+import { withKeycloak } from '@keycloak-react/nextjs'
 
 const IndexPage: NextPage = ({ keycloak }) => {
   const loggedinState = keycloak?.authenticated ? (
@@ -163,7 +163,7 @@ See inside `examples/nextjs-app` for a sample implementation.
 
 ### Securing NextJS API
 
-Whilst `@react-keycloak/nextjs` can help you secure the Frontend part of a `NextJS` app if you also want to secure `NextJS`-exposed APIs you can follow the sample in [this issue](https://github.com/panz3r/react-keycloak/issues/44#issuecomment-579877959).
+Whilst `@keycloak-react/nextjs` can help you secure the Frontend part of a `NextJS` app if you also want to secure `NextJS`-exposed APIs you can follow the sample in [this issue](https://github.com/panz3r/react-keycloak/issues/44#issuecomment-579877959).
 
 Thanks to [@webdeb](https://github.com/webdeb) for reporting the issue and helping develop a solution.
 

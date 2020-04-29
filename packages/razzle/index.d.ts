@@ -1,4 +1,4 @@
-// Type definitions for @react-keycloak/razzle
+// Type definitions for @keycloak-react/razzle
 // Project: https://github.com/panz3r/react-keycloak
 // Definitions by: Mattia Panzeri <https://github.com/panz3r>
 // TypeScript Version: 3.4
@@ -7,7 +7,7 @@ import {
   IReactKeycloakContextProps,
   KeycloakTokens,
   ProviderProps as KeycloakProviderProps,
-} from '@react-keycloak/core'
+} from '@keycloak-react/core'
 import { KeycloakConfig, KeycloakInstance } from 'keycloak-js'
 import { Component, ComponentType } from 'react'
 
@@ -17,7 +17,7 @@ export {
   KeycloakLoadingCheck,
   KeycloakTokens,
   KeycloakTokensHandler,
-} from '@react-keycloak/core'
+} from '@keycloak-react/core'
 
 /**
  * Omit utility type polyfill for TypeScript 2.8+

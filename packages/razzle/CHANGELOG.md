@@ -3,15 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [2.0.0-beta.3](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/razzle@2.0.0-beta.2...@react-keycloak/razzle@2.0.0-beta.3) (2020-04-09)
+# [2.0.0-beta.3](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle@2.0.0-beta.2...@keycloak-react/razzle@2.0.0-beta.3) (2020-04-09)
 
-**Note:** Version bump only for package @react-keycloak/razzle
-
-
+**Note:** Version bump only for package @keycloak-react/razzle
 
 
 
-# [2.0.0-beta.2](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/razzle@2.0.0-beta.1...@react-keycloak/razzle@2.0.0-beta.2) (2020-04-08)
+
+
+# [2.0.0-beta.2](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle@2.0.0-beta.1...@keycloak-react/razzle@2.0.0-beta.2) (2020-04-08)
 
 
 ### Features
@@ -22,7 +22,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-beta.1](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/razzle@1.0.0-alpha.7...@react-keycloak/razzle@2.0.0-beta.1) (2020-03-30)
+# [2.0.0-beta.1](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle@1.0.0-alpha.7...@keycloak-react/razzle@2.0.0-beta.1) (2020-03-30)
 
 
 ### chore
@@ -43,7 +43,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-alpha.7](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/razzle@1.0.0-alpha.6...@react-keycloak/razzle@1.0.0-alpha.7) (2020-03-30)
+# [1.0.0-alpha.7](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle@1.0.0-alpha.6...@keycloak-react/razzle@1.0.0-alpha.7) (2020-03-30)
 
 
 ### Features
@@ -54,15 +54,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-alpha.6](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/razzle@1.0.0-alpha.5...@react-keycloak/razzle@1.0.0-alpha.6) (2020-03-19)
+# [1.0.0-alpha.6](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle@1.0.0-alpha.5...@keycloak-react/razzle@1.0.0-alpha.6) (2020-03-19)
 
-**Note:** Version bump only for package @react-keycloak/razzle
-
-
+**Note:** Version bump only for package @keycloak-react/razzle
 
 
 
-# [1.0.0-alpha.5](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/razzle@1.0.0-alpha.4...@react-keycloak/razzle@1.0.0-alpha.5) (2020-03-18)
+
+
+# [1.0.0-alpha.5](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle@1.0.0-alpha.4...@keycloak-react/razzle@1.0.0-alpha.5) (2020-03-18)
 
 
 ### Features
@@ -73,7 +73,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-alpha.4](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/razzle@1.0.0-alpha.3...@react-keycloak/razzle@1.0.0-alpha.4) (2020-03-16)
+# [1.0.0-alpha.4](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle@1.0.0-alpha.3...@keycloak-react/razzle@1.0.0-alpha.4) (2020-03-16)
 
 
 ### Features
@@ -84,9 +84,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-alpha.3](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/razzle@1.0.0-alpha.2...@react-keycloak/razzle@1.0.0-alpha.3) (2020-03-15)
+# [1.0.0-alpha.3](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/razzle@1.0.0-alpha.2...@keycloak-react/razzle@1.0.0-alpha.3) (2020-03-15)
 
-**Note:** Version bump only for package @react-keycloak/razzle
+**Note:** Version bump only for package @keycloak-react/razzle
 
 
 

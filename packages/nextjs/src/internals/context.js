@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { createReactKeycloakContext } from '@react-keycloak/core'
+import { createReactKeycloakContext } from '@keycloak-react/core'
 
 import { isServer } from './utils'
 

@@ -1,5 +1,5 @@
 {
-  "name": "@react-keycloak/nextjs",
+  "name": "@keycloak-react/nextjs",
   "version": "2.0.0-beta.6",
   "license": "MIT",
   "description": "NextJS bindings for Keycloak javascript adapter",
@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.9.0",
-    "@react-keycloak/core": "file:../core",
+    "@keycloak-react/core": "file:../core",
     "base-64": "^0.1.0",
     "detect-node": "^2.0.4",
     "hoist-non-react-statics": "^3.3.2",

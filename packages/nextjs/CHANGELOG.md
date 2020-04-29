@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [2.0.0-beta.6](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@2.0.0-beta.5...@react-keycloak/nextjs@2.0.0-beta.6) (2020-04-14)
+# [2.0.0-beta.6](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@2.0.0-beta.5...@keycloak-react/nextjs@2.0.0-beta.6) (2020-04-14)
 
 
 ### Bug Fixes
@@ -14,15 +14,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-beta.5](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@2.0.0-beta.4...@react-keycloak/nextjs@2.0.0-beta.5) (2020-04-09)
+# [2.0.0-beta.5](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@2.0.0-beta.4...@keycloak-react/nextjs@2.0.0-beta.5) (2020-04-09)
 
-**Note:** Version bump only for package @react-keycloak/nextjs
-
-
+**Note:** Version bump only for package @keycloak-react/nextjs
 
 
 
-# [2.0.0-beta.4](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@2.0.0-beta.3...@react-keycloak/nextjs@2.0.0-beta.4) (2020-04-08)
+
+
+# [2.0.0-beta.4](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@2.0.0-beta.3...@keycloak-react/nextjs@2.0.0-beta.4) (2020-04-08)
 
 
 ### Features
@@ -33,7 +33,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-beta.3](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@2.0.0-beta.2...@react-keycloak/nextjs@2.0.0-beta.3) (2020-04-08)
+# [2.0.0-beta.3](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@2.0.0-beta.2...@keycloak-react/nextjs@2.0.0-beta.3) (2020-04-08)
 
 
 ### Features
@@ -44,7 +44,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-beta.2](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@2.0.0-alpha.1...@react-keycloak/nextjs@2.0.0-beta.2) (2020-04-05)
+# [2.0.0-beta.2](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@2.0.0-alpha.1...@keycloak-react/nextjs@2.0.0-beta.2) (2020-04-05)
 
 
 ### Bug Fixes
@@ -60,7 +60,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.1](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.17...@react-keycloak/nextjs@2.0.0-alpha.1) (2020-03-30)
+# [2.0.0-alpha.1](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.17...@keycloak-react/nextjs@2.0.0-alpha.1) (2020-03-30)
 
 
 ### chore
@@ -81,23 +81,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-alpha.17](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.16...@react-keycloak/nextjs@1.0.0-alpha.17) (2020-03-30)
+# [1.0.0-alpha.17](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.16...@keycloak-react/nextjs@1.0.0-alpha.17) (2020-03-30)
 
-**Note:** Version bump only for package @react-keycloak/nextjs
-
-
-
-
-
-# [1.0.0-alpha.16](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.15...@react-keycloak/nextjs@1.0.0-alpha.16) (2020-03-19)
-
-**Note:** Version bump only for package @react-keycloak/nextjs
+**Note:** Version bump only for package @keycloak-react/nextjs
 
 
 
 
 
-# [1.0.0-alpha.15](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.14...@react-keycloak/nextjs@1.0.0-alpha.15) (2020-02-29)
+# [1.0.0-alpha.16](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.15...@keycloak-react/nextjs@1.0.0-alpha.16) (2020-03-19)
+
+**Note:** Version bump only for package @keycloak-react/nextjs
+
+
+
+
+
+# [1.0.0-alpha.15](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.14...@keycloak-react/nextjs@1.0.0-alpha.15) (2020-02-29)
 
 
 ### Features
@@ -108,31 +108,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-alpha.14](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.13...@react-keycloak/nextjs@1.0.0-alpha.14) (2020-02-22)
+# [1.0.0-alpha.14](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.13...@keycloak-react/nextjs@1.0.0-alpha.14) (2020-02-22)
 
-**Note:** Version bump only for package @react-keycloak/nextjs
-
-
-
-
-
-# [1.0.0-alpha.13](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.12...@react-keycloak/nextjs@1.0.0-alpha.13) (2020-02-19)
-
-**Note:** Version bump only for package @react-keycloak/nextjs
+**Note:** Version bump only for package @keycloak-react/nextjs
 
 
 
 
 
-# [1.0.0-alpha.12](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.11...@react-keycloak/nextjs@1.0.0-alpha.12) (2020-02-01)
+# [1.0.0-alpha.13](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.12...@keycloak-react/nextjs@1.0.0-alpha.13) (2020-02-19)
 
-**Note:** Version bump only for package @react-keycloak/nextjs
-
-
+**Note:** Version bump only for package @keycloak-react/nextjs
 
 
 
-# [1.0.0-alpha.11](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.10...@react-keycloak/nextjs@1.0.0-alpha.11) (2020-01-26)
+
+
+# [1.0.0-alpha.12](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.11...@keycloak-react/nextjs@1.0.0-alpha.12) (2020-02-01)
+
+**Note:** Version bump only for package @keycloak-react/nextjs
+
+
+
+
+
+# [1.0.0-alpha.11](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.10...@keycloak-react/nextjs@1.0.0-alpha.11) (2020-01-26)
 
 
 ### Features
@@ -144,7 +144,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-alpha.10](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@1.0.0-alpha.9...@react-keycloak/nextjs@1.0.0-alpha.10) (2020-01-23)
+# [1.0.0-alpha.10](https://github.com/panz3r/react-keycloak/compare/@keycloak-react/nextjs@1.0.0-alpha.9...@keycloak-react/nextjs@1.0.0-alpha.10) (2020-01-23)
 
 
 ### Bug Fixes
