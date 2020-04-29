@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019-present, Mattia Panzeri <mattia.panzeri93@gmail.com>
+Copyright (c) 2019-present, Jeff Tian <jeff.tian@outlook.com>
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation

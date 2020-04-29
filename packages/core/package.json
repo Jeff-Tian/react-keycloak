@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/jeff-tian/keycloak-react.git"
   },
-  "author": "Mattia Panzeri <mattia.panzeri93@gmail.com>",
+  "author": "Jeff Tian <jeff.tian@outlook.com>",
   "bugs": {
     "url": "https://github.com/jeff-tian/keycloak-react/issues"
   },
@@ -45,5 +45,6 @@
     "@babel/runtime": "^7.9.0",
     "prop-types": "^15.7.2",
     "react-fast-compare": "^3.0.1"
-  }
+  },
+  "gitHead": "c3e167fe1c5e3745f057b4656883f8ef7bb5676f"
 }

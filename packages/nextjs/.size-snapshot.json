@@ -17,5 +17,24 @@
         "code": 3309
       }
     }
+  },
+  "dist/lib/keycloak-react-nextjs.js": {
+    "bundled": 11619,
+    "minified": 6455,
+    "gzipped": 1931
+  },
+  "dist/es/keycloak-react-nextjs.js": {
+    "bundled": 11108,
+    "minified": 6051,
+    "gzipped": 1842,
+    "treeshaked": {
+      "rollup": {
+        "code": 634,
+        "import_statements": 557
+      },
+      "webpack": {
+        "code": 3309
+      }
+    }
   }
 }

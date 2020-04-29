@@ -17,5 +17,24 @@
         "code": 1431
       }
     }
+  },
+  "dist/lib/keycloak-react-core.js": {
+    "bundled": 7598,
+    "minified": 4027,
+    "gzipped": 1287
+  },
+  "dist/es/keycloak-react-core.js": {
+    "bundled": 7240,
+    "minified": 3738,
+    "gzipped": 1213,
+    "treeshaked": {
+      "rollup": {
+        "code": 249,
+        "import_statements": 249
+      },
+      "webpack": {
+        "code": 1431
+      }
+    }
   }
 }
