@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-beta.7](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@2.0.0-beta.6...@react-keycloak/nextjs@2.0.0-beta.7) (2020-04-29)
+
+
+### Bug Fixes
+
+* add babel-helper ([1bf59d4](https://github.com/panz3r/react-keycloak/commit/1bf59d420c5cc2bb251031e331b818a72dcb6e32))
+
+
+
+
+
 # [2.0.0-beta.6](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/nextjs@2.0.0-beta.5...@react-keycloak/nextjs@2.0.0-beta.6) (2020-04-14)
 
 

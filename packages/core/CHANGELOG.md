@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.2](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/core@2.1.1...@react-keycloak/core@2.1.2) (2020-04-29)
+
+
+### Bug Fixes
+
+* add babel-helper ([1bf59d4](https://github.com/panz3r/react-keycloak/commit/1bf59d420c5cc2bb251031e331b818a72dcb6e32))
+
+
+
+
+
 ## [2.1.1](https://github.com/panz3r/react-keycloak/compare/@react-keycloak/core@2.1.0...@react-keycloak/core@2.1.1) (2020-04-09)
 
 **Note:** Version bump only for package @react-keycloak/core
