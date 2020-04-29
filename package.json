@@ -1,6 +1,10 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ],
   "scripts": {
     "prepare": "lerna bootstrap --no-ci && lerna run build",
     "build": "lerna run build",
@@ -65,10 +69,10 @@
     "@react-keycloak/nextjs": "file:packages/nextjs",
     "@react-keycloak/razzle": "file:packages/razzle",
     "@react-keycloak/web": "file:packages/web",
+    "babel-helpers": "^6.24.1",
     "gatsby-starter-default": "file:examples/gatsbyjs",
     "nextjs-app": "file:examples/nextjs-app",
     "razzle-app": "file:examples/razzle-app",
-    "react-navi": "file:examples/react-navi",
     "react-router": "file:examples/react-router"
   }
 }
